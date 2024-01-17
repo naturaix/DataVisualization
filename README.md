@@ -44,6 +44,7 @@ pip install -r requirements.txt
 ```
 ### 7. Share Your Findings
 
+
 Share your findings, insights, and visualizations with your team, colleagues, or stakeholders. Visualizations are a powerful way to communicate complex data effectively.
 
 ## Project Structure
@@ -69,3 +70,5 @@ You can organize your project files and datasets as needed.
 -    Seaborn Documentation
 
 Feel free to explore and customize this Data Visualization Project to meet your specific needs and goals. Happy data visualizing!
+
+
